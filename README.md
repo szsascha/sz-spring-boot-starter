@@ -57,7 +57,7 @@ Now you can add your sz-spring-boot-starters as depdendency.
 ```xml
 <dependencies>
     <dependency>
-        <groupId>com.github.szsascha.sz-spring-boot-starter</<groupId>
+        <groupId>com.github.szsascha.sz-spring-boot-starter</groupId>
         <artifactId>sz-spring-boot-starter-service</artifactId>
         <version>1.0.0</version>
     </dependency>
