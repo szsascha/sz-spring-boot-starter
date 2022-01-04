@@ -12,7 +12,7 @@ The sz-spring-boot-starter-service is used to have a basic setup for services. T
 2. spring-boot-starter-sleuth
 3. spring-boot-starter-test
 4. lombok (used to save lines of code by annotations)
-5. log4j
+5. logback
 6. junit
 7. mockito
 
@@ -65,3 +65,4 @@ Now you can add your sz-spring-boot-starters as depdendency.
 ```
 
 After that you're able to use all the dependencies and functionality from the used starters.
+Please remember to run `mvn clean install` before use.
